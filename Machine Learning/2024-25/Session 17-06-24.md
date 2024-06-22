@@ -13,6 +13,7 @@ Discussion of doubts in 15 days of kaggle and explanation of some plots like box
 ## Next session:
 
 To be conducted on 24th June.
+
 Task to be Completed by the next session: Topics 3 and 4 of mlcourse.ai 
 
 ## Attendees:
